@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="enter_text_to_chat">Enter text to chat</string>
+    <string name="ok">Ok</string>
+    <string name="enter_group_name">Enter group name</string>
+    <string name="submit">submit</string>
+    <string name="add_group">Add Group</string>
+    <string name="join_group">Join Group</string>
+</resources>
