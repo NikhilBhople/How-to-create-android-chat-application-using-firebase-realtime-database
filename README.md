@@ -7,3 +7,5 @@ as well as how to puch data to firebase.
 First user get signin using firebase google authentication, after that user can able to create his own group for chatting or he can join
 the exesting group.
 
+If you want to use this project as it is then you will need to replace google-services.json file
+
